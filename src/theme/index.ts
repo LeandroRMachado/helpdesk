@@ -9,7 +9,9 @@ export default {
     SUBTEXT: '#8D919E',
 
     WHITE: '#FFFFFF',
-    BORDER: '#C5CADA'
+    BORDER: '#C5CADA',
+    BUTTON: '#4895EF',
+    SUPER: '#7209B7'
   },
 
   FONTS: {

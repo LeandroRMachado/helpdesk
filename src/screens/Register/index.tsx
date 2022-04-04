@@ -25,7 +25,7 @@ export function Register() {
           <AccountForm />
 
           <BackButton onPress={() => navigation.goBack()}>
-            <MaterialIcons name="arrow-back" size={24} color={theme.COLORS.PRIMARY} />
+            <MaterialIcons name="arrow-back" size={24} color={theme.COLORS.SUPER} />
             <BackText>Eu já tenho uma conta</BackText>
           </BackButton>
         </Content>

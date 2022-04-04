@@ -34,7 +34,7 @@ export const BackButton = styled.TouchableOpacity`
 export const BackText = styled.Text`
   font-size: 14px;
   font-family: ${({ theme }) => theme.FONTS.TITLE};
-  color: ${({ theme }) => theme.COLORS.PRIMARY};
+  color: ${({ theme }) => theme.COLORS.SUPER};
   margin-left: 5px;
 `;
 
